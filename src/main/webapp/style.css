@@ -1,0 +1,12 @@
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+table {
+    border: 1px solid greenyellow;
+}
+
+tr, td, th {
+    border: 1px solid greenyellow;
+}
